@@ -1,0 +1,10 @@
+C:\Users\HASEE\Documents\Visual Studio 2015\Projects\WebApplication4\CandidateDataAccess\bin\Debug\CandidateDataAccess.dll.config
+C:\Users\HASEE\Documents\Visual Studio 2015\Projects\WebApplication4\CandidateDataAccess\bin\Debug\CandidateDataAccess.dll
+C:\Users\HASEE\Documents\Visual Studio 2015\Projects\WebApplication4\CandidateDataAccess\bin\Debug\CandidateDataAccess.pdb
+C:\Users\HASEE\Documents\Visual Studio 2015\Projects\WebApplication4\CandidateDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\HASEE\Documents\Visual Studio 2015\Projects\WebApplication4\CandidateDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HASEE\Documents\Visual Studio 2015\Projects\WebApplication4\CandidateDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\HASEE\Documents\Visual Studio 2015\Projects\WebApplication4\CandidateDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HASEE\Documents\Visual Studio 2015\Projects\WebApplication4\CandidateDataAccess\obj\Debug\CandidateDataAccess.csprojResolveAssemblyReference.cache
+C:\Users\HASEE\Documents\Visual Studio 2015\Projects\WebApplication4\CandidateDataAccess\obj\Debug\CandidateDataAccess.dll
+C:\Users\HASEE\Documents\Visual Studio 2015\Projects\WebApplication4\CandidateDataAccess\obj\Debug\CandidateDataAccess.pdb
